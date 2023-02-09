@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff dir
+chown -hR vincent:staff dir
